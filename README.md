@@ -1,11 +1,40 @@
-# CalcCli-app
+# Python CLI Calculator
 
-# I have used Click Python Package to make this CLI Calculator 
+A brief description of what this project does and who it's for  
+This is Simple CLI Calculator made with python Click Package 
 
 
-A basic CLI Calculator.  
+# Hi, I'm Md Sami ! 👋  
 
-I am Working on this to make it more good :)  
+## 🚀 About Me
+I'm a CS Student and Interested in DevOps/Cloud and Machine Learning...  
 
-U can contribute and add some feature.
+
+## Usage/Examples
+
+```bash
+
+FileName.py num1 num2 method 
+
+``` 
+for eg ;
+
+```bash
+
+FileName.py 1 2 add 
+
+``` 
+## Authors
+
+- [@Sami530](https://github.com/Sami530)
+
+
+## Documentation
+
+[Documentation for Click](https://pypi.org/project/click/)
+
+
+
+
+
 
