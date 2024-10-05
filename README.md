@@ -4,7 +4,7 @@ A brief description of what this project does and who it's for
 This is Simple CLI Calculator made with python Click Package 
 
 
-# Hi, I'm Md Sami ! 👋  
+# Hi, I'm Fryingplate ! 👋  
 
 ## 🚀 About Me
 I'm a CS Student and Interested in DevOps/Cloud and Machine Learning...  
